@@ -1,0 +1,17 @@
+"E:\software\arm\bin\armproc.dll" 
+
+"E:\software\arm\bin\armjlink2.dll" 
+
+"D:\huang\5.28\523\520\OLED_摄像头 - 副本\测试1（带电机舵机）\Prj\IAR\FN15_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "E:\software\arm\bin\armbat.dll" 
+
+--device_macro "E:\software\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "E:\software\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "E:\software\arm\config\flashloader\Freescale\FlashK60Fxxx128K.board" 
+
+
+
+

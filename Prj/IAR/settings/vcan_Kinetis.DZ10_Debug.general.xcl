@@ -1,0 +1,17 @@
+"D:\wixin\arm\bin\armproc.dll" 
+
+"D:\wixin\arm\bin\armjlink2.dll" 
+
+"D:\车模检查\红旗队\测试1（带电机舵机）\Prj\IAR\DZ10_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "D:\wixin\arm\bin\armbat.dll" 
+
+--device_macro "D:\wixin\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "D:\wixin\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "D:\wixin\arm\config\flashloader\NXP\FlashK60Dxxx128K.board" 
+
+
+
+

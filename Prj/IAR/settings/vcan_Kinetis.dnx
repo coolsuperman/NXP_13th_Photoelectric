@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<settings>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <JLinkDriver>
+        <CStepIntDis>_ 0</CStepIntDis>
+        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
+    </JLinkDriver>
+    <DebugChecksum>
+        <Checksum>3330737937</Checksum>
+    </DebugChecksum>
+    <Exceptions>
+        <StopOnUncaught>_ 0</StopOnUncaught>
+        <StopOnThrow>_ 0</StopOnThrow>
+    </Exceptions>
+    <CodeCoverage>
+        <Enabled>_ 0</Enabled>
+    </CodeCoverage>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+        <InstrCount>0</InstrCount>
+    </Disassembly>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Trace1>
+        <Enabled>0</Enabled>
+        <ShowSource>1</ShowSource>
+    </Trace1>
+    <DisassembleMode>
+        <mode>0</mode>
+    </DisassembleMode>
+    <Breakpoints2>
+        <Count>0</Count>
+    </Breakpoints2>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <Aliases>
+        <A0>_ "C:\Users\lenovo\Desktop\飞思卡尔程序\6.qiaolima\6.04\523\520\OLED_摄像头 - 副本\测试1（带电机舵机）\App\main.c" ""</A0>
+        <A1>_ "C:\Users\who.care\Desktop\智能车测试\6.03\523\520\OLED_摄像头 - 副本\测试1（带电机舵机）\App\main.c" "D:\huang\6.04\523\520\OLED_摄像头 - 副本\测试1（带电机舵机）\App\main.c"</A1>
+        <A2>_ "C:\Users\who.care\Desktop\智能车测试\6.03\523\520\OLED_摄像头 - 副本\测试1（带电机舵机）\Lib\CMSIS\Inc\core_cm4.h" ""</A2>
+        <A3>_ "D:\Documents\Tencent Files\846069147\FileRecv\6.qiaolima\6.04\523\520\OLED_摄像头 - 副本\测试1（带电机舵机）\Board\src\VCAN_key.c" ""</A3>
+        <A4>_ "D:\huang\5.28\523\520\OLED_摄像头 - 副本\测试1（带电机舵机）\Board\src\VCAN_key.c" "G:\QQrec\6.04\523\520\OLED_摄像头 - 副本\测试1（带电机舵机）\Board\src\VCAN_key.c"</A4>
+        <Count>5</Count>
+        <SuppressDialog>1</SuppressDialog>
+    </Aliases>
+    <DriverProfiling>
+        <Enabled>0</Enabled>
+        <Mode>1</Mode>
+        <Graph>0</Graph>
+        <Symbiont>0</Symbiont>
+        <Exclusions />
+    </DriverProfiling>
+    <CallStackLog>
+        <Enabled>0</Enabled>
+    </CallStackLog>
+    <CallStackStripe>
+        <ShowTiming>1</ShowTiming>
+    </CallStackStripe>
+</settings>
+[JLinkDriver]
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
